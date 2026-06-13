@@ -46,7 +46,10 @@ Task Scheduler → Create Task → Action:
 Program:   wscript.exe
 Arguments: "C:\Users\USER\OneDrive\Desktop\linkedin-content-lab\run_refresh.vbs"
 ```
-The VBS launcher runs the refresh hidden (no console-window flash) and writes `refresh.log`.
+The VBS launcher runs `refresh_and_publish.bat` hidden (no console-window flash): it refreshes the
+data, then `git commit` + `git push` so the live GitHub Pages dashboard auto-updates. Writes `refresh.log`.
+
+**Live dashboard:** https://danamove.github.io/linkedin-content-lab/
 
 ## Tests
 ```
