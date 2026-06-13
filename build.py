@@ -103,6 +103,13 @@ TEMPLATE = r"""<!doctype html>
     <option value="replicable">Replicable (≥5×)</option>
     <option value="working">Working (≥2×)</option>
   </select>
+  <select id="window">
+    <option value="0">Any time</option>
+    <option value="7">Last 7 days</option>
+    <option value="14">Last 14 days</option>
+    <option value="30">Last 30 days</option>
+    <option value="90">Last 90 days</option>
+  </select>
   <input id="q" placeholder="Search hook / text…">
 </div>
 <main id="grid"></main>
@@ -119,9 +126,11 @@ function dateStr(iso){ return (iso||'').slice(0,10); }
 
 function render(){
   const sort=$('sort').value, author=$('author').value, band=$('band').value, q=$('q').value.toLowerCase();
+  const win=+$('window').value, cutoff = win ? Date.now()-win*86400000 : 0;
   let rows = POSTS.filter(p=>{
     if(author && (p.name||p.handle)!==author) return false;
     if(band && p.band!==band) return false;
+    if(cutoff && (!p.date || new Date(p.date).getTime() < cutoff)) return false;
     if(q && !((p.hook||'')+' '+(p.text||'')).toLowerCase().includes(q)) return false;
     return true;
   });
@@ -159,7 +168,7 @@ function render(){
   }
 }
 function esc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
-['sort','author','band','q'].forEach(id=>$(id).addEventListener('input',render));
+['sort','author','band','window','q'].forEach(id=>$(id).addEventListener('input',render));
 render();
 </script>
 </body>
