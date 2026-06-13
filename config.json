@@ -1,0 +1,30 @@
+{
+  "window_days": 90,
+  "country": "us",
+  "outlier_bands": { "working": 2.0, "replicable": 5.0, "breakout": 15.0 },
+  "min_posts_for_baseline": 4,
+  "influencers": [
+    { "handle": "charlywargnier",    "name": "Charly Wargnier" },
+    { "handle": "glencathey",        "name": "Glen Cathey" },
+    { "handle": "lizryan",           "name": "Liz Ryan" },
+    { "handle": "milesjennings",     "name": "Miles Jennings" },
+    { "handle": "louisetriance",     "name": "Louise Triance" },
+    { "handle": "hunglee",           "name": "Hung Lee" },
+    { "handle": "amymencarelli",     "name": "Amy Mencarelli" },
+    { "handle": "traciesponenberg",  "name": "Tracie Sponenberg" },
+    { "handle": "adrianoherdman1",   "name": "Adriano Herdman" },
+    { "handle": "michaelbrown91281", "name": "Michael Brown" },
+    { "handle": "alexseiler",        "name": "Alex Seiler" },
+    { "handle": "beneubanks",        "name": "Ben Eubanks" },
+    { "handle": "keriohlrich",       "name": "Keri Ohlrich" },
+    { "handle": "larsschmidt",       "name": "Lars Schmidt" },
+    { "handle": "danfromhr",         "name": "Daniel Space" },
+    { "handle": "haileygeorge",      "name": "Hailey George" },
+    { "handle": "stacyzapar",        "name": "Stacy Donovan Zapar" },
+    { "handle": "cammasfreeman",     "name": "Cammas Freeman" },
+    { "handle": "kieran-snyder",     "name": "Kieran Snyder" },
+    { "handle": "kylelagunas",       "name": "Kyle Lagunas" },
+    { "handle": "hannahmorgan",      "name": "Hannah Morgan" },
+    { "handle": "philstrazzulla",    "name": "Phil Strazzulla" }
+  ]
+}
