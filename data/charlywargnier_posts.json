@@ -1,8 +1,78 @@
 {
   "handle": "charlywargnier",
   "name": "Charly Wargnier",
-  "updated": "2026-06-13T11:30:27.026104+00:00",
+  "updated": "2026-06-14T04:00:47.734993+00:00",
   "posts": [
+    {
+      "id": "7471683003325530113",
+      "url": "https://www.linkedin.com/posts/charlywargnier_computer-vision-is-shifting-from-static-activity-7471683003325530113-7tk9",
+      "kind": "post",
+      "date": "2026-06-13T22:00:45.150000+00:00",
+      "reactions": 42,
+      "comments": 1,
+      "engagement": 43,
+      "text": "🚨 Computer vision is shifting from static scans to agentic behavior. Perceptron AI just released `Agentic Detection`, a new API that localizes objects simply from a description or even a crop 🔥 Standard one-shot detectors do a single pass and miss critical details. Perceptron fixes this with an agentic harness that takes control of the image. The Mk1 model autonomously zooms, crops, and tiles, issuing multiple calls per request to catch tiny objects others miss. You can use the API in 3 ways: → Detect everything: an exhaustive zero-label inventory → Open-vocab: Find anything via text prompts → Visual exemplars: Find items matching a single visual crop It handles satellite imagery, robot sensors, LiDAR, and more. At $0.15/M input and $1.50/M output, the pricing is highly disruptive. Check out these 5 WILD demos below ↓ #1 First use case: the rock climbing gym. → https://lnkd.in/eaXGkT6D This is dense detection at its finest. The model flawlessly identifies thousands of overlapping climbing holds, proving it stays highly accurate in chaotic visual environments. __________ #2 Next up: Utility Infrastructure. → https://lnkd.in/eCbwtscD Electrical pylons are visually messy, with overlapping cables and small components. Perceptron still identifies the key points zero-shot! __________ #3 This third demo uses a hidden-object image from the FindTheSniper community on Reddit. → https://lnkd.in/ebuVm9WH The snake is camouflaged so well that humans need minutes to find it. Perceptron spots the fine details almost instantly. __________ #4 Now let’s look at geospatial density. → https://lnkd.in/e_yEaadz The sheer number of detections here is staggering. General purpose VLMs usually fail here, but using in-context learning, Perceptron ensures powerful detection regardless of image density. __________ #5 Last one's about LiDAR! → https://lnkd.in/eMfMKhg6 LiDAR maps the world using laser distance points, making it a harder test than natural images. Perceptron adapts and reads the scene anyway 💥 __________ - Their API is live now. - Try the interactive demos → https://lnkd.in/ev8gWh8u - Check out Perceptron AI's website → https://lnkd.in/eGaFgCfU - You can view the full thread with all the demos on 𝕏 → https://lnkd.in/eU4aNx4C If you got value from this, a like or repost really helps spread the word 👊 Follow me here or on 𝕏 → @datachaz to keep up with the latest in LLMs and AI agents",
+      "hook": "🚨 Computer vision is shifting from static scans to agentic behavior.",
+      "ratio": 1.65,
+      "band": "baseline",
+      "name": "Charly Wargnier"
+    },
+    {
+      "id": "7471677897670393856",
+      "url": "https://www.linkedin.com/posts/charlywargnier_ace-advice-from-fable-5-just-before-it-got-activity-7471677897670393856-x1uh",
+      "kind": "post",
+      "date": "2026-06-13T21:40:27.867000+00:00",
+      "reactions": 32,
+      "comments": 2,
+      "engagement": 34,
+      "text": "Ace advice from Fable 5, just before it got banned 🥹 | Charly Wargnier",
+      "hook": "Ace advice from Fable 5, just before it got banned 🥹 | Charly Wargnier",
+      "ratio": 1.31,
+      "band": "baseline",
+      "name": "Charly Wargnier"
+    },
+    {
+      "id": "7471671740717318144",
+      "url": "https://www.linkedin.com/posts/charlywargnier_activity-7471671740717318144-KtyL",
+      "kind": "post",
+      "date": "2026-06-13T21:15:59.935000+00:00",
+      "reactions": 26,
+      "comments": 2,
+      "engagement": 28,
+      "text": "",
+      "hook": "",
+      "ratio": 1.08,
+      "band": "baseline",
+      "name": "Charly Wargnier"
+    },
+    {
+      "id": "7471643177393897472",
+      "url": "https://www.linkedin.com/posts/charlywargnier_its-absolutely-insane-what-you-can-could-activity-7471643177393897472-uk6Z",
+      "kind": "post",
+      "date": "2026-06-13T19:22:29.908000+00:00",
+      "reactions": 23,
+      "comments": 3,
+      "engagement": 26,
+      "text": "It's ABSOLUTELY INSANE what you c̶a̶n̶ could do with Claude Fable 5. Fable made this entire video by itself 🤯 Nate Herk only gave it a /goal prompt, went to the gym, and came back to this ↓ | Charly Wargnier",
+      "hook": "It's ABSOLUTELY INSANE what you c̶a̶n̶ could do with Claude Fable 5.",
+      "ratio": 1.0,
+      "band": "baseline",
+      "name": "Charly Wargnier"
+    },
+    {
+      "id": "7471636292423012353",
+      "url": "https://www.linkedin.com/posts/charlywargnier_we-all-know-speech-to-text-models-look-activity-7471636292423012353-KQme",
+      "kind": "post",
+      "date": "2026-06-13T18:55:08.403000+00:00",
+      "reactions": 17,
+      "comments": 0,
+      "engagement": 17,
+      "text": "🚨 We all know speech-to-text models look great on clean lab benchmarks. But what happens when they hit real customer calls? Add in some background noise, thick accents, or overlapping speakers, and the output quickly becomes unusable. This is the exact problem Gladia set out to solve with SOLARIA-3 🔥 It’s a brand-new ASR model engineered specifically for the messy, unpredictable audio that businesses actually deal with in production. While SOLARIA-1 is still Gladia's go-to for 100+ languages and live streaming, SOLARIA-3 serves as a highly precise tool for core European languages. The benchmark results dropped this week, and they are wild: → 9.6% WER on real English customer calls (#1 in the field) → 6.4% WER on the Earnings22 business dataset (#1) → 33.9% WER on conversational telephone speech (#1) When you’re building voice agents, meeting assistants, or contact center AI, transcription accuracy dictates your success. I’ve seen a few demos from the Gladia team, and the accuracy is incredible. SOLARIA-3 flawlessly caught tricky names, complex numbers, and niche industry jargon that usually breaks other models. Better transcripts mean massive improvements in downstream LLM performance. It means building voice workflows you can actually trust. I still need to run my own heavy stress tests, but Solaria-3 is already looking like a massive leap forward for Audio-to-LLM pipelines 👀 ___________ Want to throw your messiest audio files at it? Test Solaria-3 here → https://lnkd.in/ekQpyGAu Big thanks to Gladia for collaborating on this post 🙌 Also you can use promo code * TRY-SOLARIA-3 * to grab $200 worth of free async transcription hours!",
+      "hook": "🚨 We all know speech-to-text models look great on clean lab benchmarks.",
+      "ratio": 0.65,
+      "band": "baseline",
+      "name": "Charly Wargnier"
+    },
     {
       "id": "7471513242260119552",
       "url": "https://www.linkedin.com/posts/charlywargnier_andrej-karpathy-predicted-the-power-of-activity-7471513242260119552-jiVy",
@@ -13,7 +83,7 @@
       "engagement": 7,
       "text": "🚨 Andrej Karpathy predicted the power of the \"LLM Wiki\" Google just formalized it. Meet Open Knowledge Format (OKF): a vendor-neutral standard for giving foundation models the curated context they need. I can genuinely see this replacing Notion, Obsidian, or traditional wikis for developer teams, and the reason comes down to bookkeeping. Traditional wikis fail because humans inevitably abandon the tedious work of updating them. As Andrej Karpathy pointed out recently, LLMs don't get bored. They don't forget to update a cross-reference, and they can touch 15 files in a single pass. OKF standardizes the interoperability layer so agents can actually do that heavy lifting autonomously. Because the format is minimally opinionated, it doesn't dictate what you write, it just dictates how it's structured. You get: → Human-readable documents that live right alongside your code in version control → Cross-links that map out complex entity relationships without needing a graph database → A system that survives moving between different tools and organizations There is no complex compression scheme. No central registry. If you can cat a file, you can read it. If you can git clone a repo, you can deploy it. This is how we stop rebuilding context pipelines from scratch every time a new model drops. Google's blog post: https://lnkd.in/ePECS3zS Spec file here: https://lnkd.in/eZcZ_4Km",
       "hook": "🚨 Andrej Karpathy predicted the power of the \"LLM Wiki\" Google just formalized it.",
-      "ratio": 0.36,
+      "ratio": 0.27,
       "band": "baseline",
       "name": "Charly Wargnier"
     },
@@ -27,7 +97,7 @@
       "engagement": 8,
       "text": "🚨 UNPRECEDENTED MOVE: The US government just forced Anthropic to pull Fable 5 and Mythos 5 offline globally over \"national security\" concerns. The wildest part is Anthropic's rebuttal. They claim the government's alleged \"jailbreak\" is basically just asking the model to review code for bugs, something widely available in GPT-5.5 and used daily by security defenders. Anthropic is warning the industry: if this becomes the new regulatory standard, it will halt all new frontier models from being deployed. If you're building on Fable, reroute your API to Opus 4.8 immediately. Full announcement: https://lnkd.in/eZ_Grk-M",
       "hook": "🚨 UNPRECEDENTED MOVE: The US government just forced Anthropic to pull Fable 5 and Mythos 5 offline globally over \"national security\" concern…",
-      "ratio": 0.41,
+      "ratio": 0.31,
       "band": "baseline",
       "name": "Charly Wargnier"
     },
@@ -41,7 +111,7 @@
       "engagement": 14,
       "text": "Fable, we had a blast while it lasted | Charly Wargnier",
       "hook": "Fable, we had a blast while it lasted | Charly Wargnier",
-      "ratio": 0.72,
+      "ratio": 0.54,
       "band": "baseline",
       "name": "Charly Wargnier"
     },
@@ -55,7 +125,7 @@
       "engagement": 21,
       "text": "MANUALLY DRAGGING BOXES FOR ARCHITECTURE DIAGRAMS IS FINALLY DEAD There is a new open-source agent skill that turns raw codebases into cleanly routed draw.io diagrams without you placing a single coordinate. The project, drawio-skill, runs directly inside Claude Code, Cursor, or Copilot. Instead of opening a blank canvas, you just ask your agent to map the repo. Here is what it actually does: → Extracts the module structure (supports Python, JS/TS, Go, Rust) → Uses Graphviz for auto-layout and routing → Drops redundant edges so the graph stays readable → Builds native, editable draw.io files But the standout feature is visual self-checking. Once it generates the diagram, the agent \"looks\" at the resulting PNG. If it sees stacked edges or clipped text, it auto-fixes the layout across up to 5 iterative rounds. It runs from a single file. No MCP server. No background daemon. Best part? It's 100% free and open-source. repo link → https://lnkd.in/e6EbXdQS Don't forget to drop a ⭐️!",
       "hook": "MANUALLY DRAGGING BOXES FOR ARCHITECTURE DIAGRAMS IS FINALLY DEAD There is a new open-source agent skill that turns raw codebases into clean…",
-      "ratio": 1.08,
+      "ratio": 0.81,
       "band": "baseline",
       "name": "Charly Wargnier"
     },
@@ -69,7 +139,7 @@
       "engagement": 29,
       "text": "🚨 NVIDIA JUST OPEN-SOURCED ONE OF THE MOST IMPORTANT AI UTILITIES OF THE YEAR Right now, developers are downloading third-party \"skills\" straight off GitHub for their AI agents. But an AI skill is not just a text prompt. It’s executable code that runs with your system privileges. A skill you grab to save ten minutes can read your environment variables, lift your API keys, and quietly send them to an external server. Recent research shows 26.1% of public skills carry vulnerabilities, and over 5% are outright malicious. NVIDIA’s new release, SkillSpector, closes this gap. It’s an Apache 2.0 licensed security scanner that answers one question: is this skill safe to run? Here is how the pipeline works: → You point it at a GitHub link, local folder, or a single SKILL.md file. → Pass 1: A fast static scan flags credential harvesting, prompt injections, and checks live CVE data. → Pass 2: An optional LLM pass evaluates the semantic intent of the code to clear out false positives. At the end, you get a 0 to 100 risk score and a clear verdict: Safe, Caution, or Do Not Install. It currently scans skills for Claude Code, Codex CLI, and Gemini. Defo worth running before you blindly trust the next agent skill you find online. Link to the repo in the first comment.",
       "hook": "🚨 NVIDIA JUST OPEN-SOURCED ONE OF THE MOST IMPORTANT AI UTILITIES OF THE YEAR Right now, developers are downloading third-party \"skills\" str…",
-      "ratio": 1.49,
+      "ratio": 1.12,
       "band": "baseline",
       "name": "Charly Wargnier"
     },
@@ -83,7 +153,7 @@
       "engagement": 18,
       "text": "ICYMI, Anthropic quietly dropped 9 FREE Claude Skills tutorials. Covering Projects, Excel workflows, browsing in Chrome, file editing, app integrations, task automation, and more! Zero tech background required, so anyone can learn practical AI free and fast 🧵↓ _______ 1/ First things first, did you know you can create and edit files directly with Claude? Draft documents, iterate on content, and keep everything in one place. ↳ https://lnkd.in/e5hwduCU _______ 2/ Claude can also assist you while you browse in Chrome. Summaries, explanations, and quick insights as you move across pages. ↳ https://lnkd.in/ebPXGPJf _______ 3/ Claude also works directly inside Excel. You can explore datasets, get formula explanations, and reason about numbers without leaving your sheet! ↳ https://lnkd.in/ecp35X86 _______ 4/ You can use Claude in Excel to review revenue models. It helps sanity-check assumptions, logic, and structure in your financial projections. ↳ https://lnkd.in/eHCRBjgn _______ 5/ For HR teams, Claude can also help with headcount planning in Excel. Run scenarios, test growth plans, and make hiring decisions more concrete. ↳ https://lnkd.in/ecWzpSP6 _______ 6/ Organize conversations with Projects so each workflow lives in its own space. Much easier to keep context, files, and long-running tasks clean. ↳ https://lnkd.in/eWStMM23 _______ 7/ Claude’s most capable models (Opus 4.6 and 4.5) are designed for deeper reasoning. Check out how you can make the best of them! ↳ https://lnkd.in/erhUs9yr _______ 8/ Claude can be connected to your other tools too! That opens the door to pulling data from apps and pushing actions back. ↳ https://lnkd.in/euySuAnF _______ 9/ Last but not least, with Claude Cowork, you can automate small recurring tasks. Set up simple workflows and reduce repetitive manual work. ↳ https://lnkd.in/eCP8_jHg _______ Thanks for reading! If you enjoyed this breakdown, a like or repost helps others find it 🦾 Follow me here or on X → @datachaz for the latest on LLMs, AI agents, and data science.",
       "hook": "ICYMI, Anthropic quietly dropped 9 FREE Claude Skills tutorials.",
-      "ratio": 0.92,
+      "ratio": 0.69,
       "band": "baseline",
       "name": "Charly Wargnier"
     },
@@ -97,7 +167,7 @@
       "engagement": 1357,
       "text": "",
       "hook": "",
-      "ratio": 69.59,
+      "ratio": 52.19,
       "band": "breakout",
       "name": "Charly Wargnier"
     },
@@ -111,7 +181,7 @@
       "engagement": 133,
       "text": "\"Mum, how did we get so poor?\" “Your father subscribed to Claude Max, ChatGPT Pro, Cursor Pro, and still and shipped absolutely f*ck all.”",
       "hook": "\"Mum, how did we get so poor?\" “Your father subscribed to Claude Max, ChatGPT Pro, Cursor Pro, and still and shipped absolutely f*ck all.”",
-      "ratio": 6.82,
+      "ratio": 5.12,
       "band": "replicable",
       "name": "Charly Wargnier"
     }
