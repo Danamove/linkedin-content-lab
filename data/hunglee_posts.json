@@ -1,8 +1,22 @@
 {
   "handle": "hunglee",
   "name": "Hung Lee",
-  "updated": "2026-06-14T04:05:42.871582+00:00",
+  "updated": "2026-06-21T04:05:12.995185+00:00",
   "posts": [
+    {
+      "id": "pulse:week-recruiting-issue-272-hung-lee-tdf1e",
+      "url": "https://www.linkedin.com/pulse/week-recruiting-issue-272-hung-lee-tdf1e",
+      "kind": "article",
+      "date": "2026-06-15T00:00:00+00:00",
+      "reactions": 39,
+      "comments": 13,
+      "engagement": 52,
+      "text": "The world that Fable 5 bans foreshadows is one of fragmentation and decentralisation, where AI capabilities are no longer located in the American clouds but distributed across national boundaries, within corporate firewalls, and under sovereign infrastructure and national jurisdictions. Not many people today know this, but I cut my teeth in recruitment for ‘IT’ - network engineers, database administrators, IT Managers - before cloud infrastructure moved everything off premise and I accept that a great deal of my enthusiasm for this moment comes from the prospect of the IT department making a comeback! Software as a Service is great - when the service availability was based on your ability to pay. But it's a different story when that service is dependent on the passport you happen to be holding. Recruiting for these departments is going to be different from hiring for the cloud-native engineer who has never touched a server rack. It’s going to be new / old set of skills, the mix of which has come from professional and personal use.",
+      "hook": "The world that Fable 5 bans foreshadows is one of fragmentation and decentralisation, where AI capabilities are no longer located in the Ame…",
+      "ratio": 0.76,
+      "band": "baseline",
+      "name": "Hung Lee"
+    },
     {
       "id": "7470026506367389696",
       "url": "https://www.linkedin.com/posts/hunglee_geo-vs-seo-what-do-we-know-about-this-activity-7470026506367389696-kjL7",
@@ -13,7 +27,7 @@
       "engagement": 65,
       "text": "GEO vs SEO - what do we know about this? Not sure if anyone saw, but a couple week's ago, Google stopped being a search engine. Instead of retrieving information from the Internet, it Google will now Generate information based on information it has already crawled and summarise it for you. It even caused the great Irina Shamaeva 🇺🇦 to momentarily step back into the fray and announce the end of the sourcing as we know it! This is on trend for where we are going It's clear that our relationship with information discovery is changing, and whatever we see online is going to be mediated by AI or some sort. What are the implications for Employer Branding / Talent Attraction? How do we ensure that our employer 'gets into the training data'? Is it a matter of flooding Reddit and Glassdoor and - dare I say it - LinkedIn itself - with on brand content? Talking about this with Joveo this Friday, along with smart heads like Modiara Kamps Hannah King Alex Her Yazad Dalal and friends. https://lnkd.in/e5Dti5-9 Anyone else want to join or have any comment to add to the GEO vs SEO debate? Waiting for Chukowski to swing by and give me a rocket...",
       "hook": "GEO vs SEO - what do we know about this?",
-      "ratio": 0.92,
+      "ratio": 0.96,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -27,7 +41,7 @@
       "engagement": 102,
       "text": "WHAT IF AI COSTS MORE THAN HUMANS? With SpaceX, OpenAI and Anthropic poised for the biggest IPO the world has ever seen, there has never been a more appropriate time to read up on AI Token Economics. This is especially pertinent to us in People Ops, as we've been tasked with remodelling ourn organisations around AI workflows. But what if the REAL cost of AI is much higher than we've been led to believe? Topic of today's Open Kitchen, inspired by brilliant contributions from Chris Havrilla, Sarah White, Adam Gordon Joshua Hoffman, George LaRocque, Bill Fischer and Tony de Graaf in last week's Brainfood Live where we discussed this topic. 1️⃣ AI Token Cost Going Down, But AI Token Use is Going Up Jevon's Paradox is manifest in AI - as token cost goes down, token consumption goes up, as new uses are found for AI. Consumption is overtaking cost reduction though, so overall cost of AI is increasing for every company that seriously uses it 2️⃣ Where Do Companies Actually Spend Their AI Tokens? It's Engineering vs the Rest, especially since the arrival of AI Coding Agents, and this remains the place where the risk of catastrophic AI budget overspend is still located.... 3️⃣ But You Don't Need to Be an Engineer to Blow the AI Budget! Rise of Vibe Coding means that everyone is a product maker, and everyone a potentially significant consumer of AI tokens 4️⃣ Risk Controls Hard Limit - i.e Uber $1500 per capita budget Context Discipline - agents need constraints, 'only use this' etc Response Caching - web infra technique, common requests = cache response Anti-infinity Loop - hard limit on inference calls, tool calls etc. Model Switching - automatedshopping around, different tasks, different models Open Source + On-prem - download an open source model and run it yourself! 5️⃣ Our Task in People Ops: Reevaluate the Human Cost vs Return Just as cost of employee is more than payroll, value of employee is more than revenue per capita. We need to include in the calculation the 'human value added' - the osmotic information transfer, the adaptability of human workers, the self directed action, the collective intelligence, the institutional knowledge... Thanks to our friends Greenhouse Software for supporting this newsletter. Recruiters Guide to Job Applicant Fraud, in the link below ------------------------------------------------------------------------------- WHAT IS GOING ON - Big List of Recruiting & HR Events in 2026 - Exclusive Dinner at the Shard on Weds 10th - TA Execs, link for waitlist! - GEO vs SEO with Joveo with Modiara Kamps Hannah King Yazad Dalal and friends. - The State of AI Fluency with TestGorilla, next week 17th!",
       "hook": "WHAT IF AI COSTS MORE THAN HUMANS?",
-      "ratio": 1.45,
+      "ratio": 1.5,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -41,7 +55,7 @@
       "engagement": 102,
       "text": "Finally, the most radical risk control may ultimately be the oldest one: owning the infrastructure yourself.  The rise of open-weight models has revived the logic of on-premise servers. Companies can now download highly capable models and run them on their own hardware, and remove the token cost entirely - pay for the electricity and you’re done. This last protection is the strongest argument for true Open Source AI, vs the Closed Source AI which is metered to you by private companies with the profit incentive. It’s probably not coincidental that both ‘Open’AI and Anthropic have been leading lobbying campaigns for the US Government to ban open source providers, ostensibly on national security grounds but perhaps the real threat that the one it poses to their cloud based, metered AI business model. Even US companies are voting with their feet - economics make too much sense for high volume users not to go open source, so outside of legislative ban, we are going to see more companies shift to on-prem AI. Interestingly for us in recruitment, this trend may signal the rise of significant hiring demand for new roles like AI FinOps, AI System Admin and the like. Happy days!",
       "hook": "Finally, the most radical risk control may ultimately be the oldest one: owning the infrastructure yourself.",
-      "ratio": 1.45,
+      "ratio": 1.5,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -55,7 +69,7 @@
       "engagement": 275,
       "text": "AI TOKEN COST vs HUMAN FTE - is the bill for the former coming due? The conversation on AI adoption has moved to token budgets. As providers shift to usage based billing, its suddenly turning out that AI Agents doing the work might actually be much more expensive than we thought. Not only this, but we are no longer in control of that cost, as we're now dependent on a third party provider who can escalate the costs to us as they see fit. Rolling back to pre-AI workflow isn't an option, because we've fired the team that knew how to do it. How real is the above scenario? Are TA / HR / People Ops in this conversation at all? We're talking about it this Friday on Brainfood Live with George LaRocque Chris Havrilla Joshua Hoffman Bill Fischer Tony de Graaf and more. Register here folks: https://lnkd.in/ed2_JSbp",
       "hook": "AI TOKEN COST vs HUMAN FTE - is the bill for the former coming due?",
-      "ratio": 3.9,
+      "ratio": 4.04,
       "band": "working",
       "name": "Hung Lee"
     },
@@ -69,7 +83,7 @@
       "engagement": 112,
       "text": "THIS WEEK, IN RECRUITING - ISSUE 270 RECRUITING IS ALWAYS GOING TO NEED THE HUMAN TOUCH...? This was kind of the subtext of my talk at recruiTECH CEE in Budapest last week. Unfortunately, I don't think I properly made the case, so I hope I am able to go some way toward doing a better job of it here. Human touch is required, but not always, so we better understand under what circumstances it is. Here are 5... 1️⃣ WHEN COLLABORATION INTENSITY IS HIGH Example: football teams, its not about the player, its about the team...hence I endorse Tuchel's selection of Jordan Henderson - guy is good for the dressing room! 2️⃣ WHEN REAL CALIBRATION IS NEEDED Sometimes its too chaotic a process for AI to handle, however 'agentic' it thinks it is. You're going to need to do a lot of phone work if you're hiring blue collar 3️⃣ WHEN EMOTIONAL STATES ARE HIGH Job search is an emotional sine wave, not steady state. Human recruiters can make decisive contributions if we understand where the candidate is emotionally in the flow 4️⃣ WHEN THE DECISION IS A BIG DEAL (FOR THE CANDIDATE) The details for some jobs might not really be that important but for some others, they are crucial. 5️⃣ WHEN THE DECISION IS A BIG DEAL (FOR THE EMPLOYER) Strategically important / Rare / Exec hires need to be treated differently - and almost always feature human overservicing of the candidate. 6️⃣ ANY MORE? Thanks to our friends at Greenhouse Software for supporting this week's newsletter. What are the legal and security risks of using AI in hiring? On-demand webinar on this topic in the link below ------------------------------------------------------------------------------- WHAT IS GOING ON? - Big List of Recruiting / HR Events to Attend in 2026 - get on the speaker circuit btw, nothing better for profile, and no one can afford to be invisible in today's market - What if AI Costs More than Humans? - we're talking token economics in this Friday's Brainfood Live. Essential for folks to sign up to this with Joshua Hoffman Chris Havrilla Bill Fischer George LaRocque Tony de Graaf - TA Disruptors Live next week with Arctic Shores. I'm MCing this but don't let that put you off, 100+ TA leaders in the house - TA Exec Dinner on the 10th June with CoderPad. 5 seats left for this, if you are a TA Leader / Head of function and want to join 15 of your peers at the Shangri-LA on the Shard, click on the link and apply. - GEO vs SEO with our friends Joveo. In light of what is going on with Google Search, EB / TA folks should join this show with Yazad Dalal Modiara Kamps Hannah King and friends.",
       "hook": "THIS WEEK, IN RECRUITING - ISSUE 270 RECRUITING IS ALWAYS GOING TO NEED THE HUMAN TOUCH...?",
-      "ratio": 1.59,
+      "ratio": 1.65,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -83,7 +97,7 @@
       "engagement": 112,
       "text": "Collaboration intensity is a description of work where collaboration with other humans is critical for output and outcomes. The concept first came into mainstream talent ops thinking during the pandemic era when enforced shift to remote revealed the variance in collaboration intensity in job roles which was previously hidden when everyone was in the office, in the same building. Jobs with low collaboration intensity were most easily remote-able because the individual could do the job without input / output from others, and so could do so from anywhere. Conversely, jobs with high collaboration intensity created bottlenecks which weren’t easily resolved remotely - hence increased frequency of calibration calls and the onset of ‘Zoom fatigue’. It was only with the enforced shift to asynchronous, written communication that we got some sort of flow back to collaboration intense work in a remote setting. Even then, it proved unsatisfactory, as ‘creativity’ and innovation which comes from these constant yet irregular inputs / outputs was found (or claimed) to be lacking, leading to the loud class for RTO.",
       "hook": "Collaboration intensity is a description of work where collaboration with other humans is critical for output and outcomes.",
-      "ratio": 1.59,
+      "ratio": 1.65,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -97,7 +111,7 @@
       "engagement": 60,
       "text": "In this framing, AI is going to automate ‘the work, that isn’t the work’ and everyone becomes the winner - the worker who gets more fulfilling work to do, the employer who gains a more productive (x10!) employee and the service receiver - the school kid or the candidate - who gets better service. However, one thing we’re learning about the impact of AI on the world of work is that for every positive story, there is a negative angle. It was my friend Martyn Redstone who first introduced me to the idea that routine, repetitious work might actually be a form of cognitive rest - because doing higher value work all of the time might actually be quite exhausting. The idea that AI does not reduce workload but actually concentrates the most cognitively demanding tasks is now being studied, with the implications for employee well being, mental health and ultimately job performance seemingly quite obvious. Will we re-design monotony back into the job description, in order to provide some cognitive rest? Somehow I doubt that this is going to be the outcome - more likely, we’re just going to burn through the employees and when they do eventually frazzle out, simply replace them with more durable workers who won’t have the fragility of being biological, sociological beings.",
       "hook": "In this framing, AI is going to automate ‘the work, that isn’t the work’ and everyone becomes the winner - the worker who gets more fulfilli…",
-      "ratio": 0.85,
+      "ratio": 0.88,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -111,7 +125,7 @@
       "engagement": 51,
       "text": "GEO vs SEO: What Recruitment Marketers Need to Know in 2026 GEO vs SEO: What Recruitment Marketers Need to Know in 2026 Everyone know's the search landscape has fundamentally shifted. In 2026, candidates are no longer typing keywords into Google - they are asking AI assistants where to work, who pays fairly, and which cultures actually thrive. If your recruitment marketing strategy still revolves around traditional SEO alone, you are optimising for a shrinking platform while missing the one that is exploding. Join us for a critical livestream exploring the new battleground between Generative Engine Optimisation and classic Search Engine Optimisation.",
       "hook": "GEO vs SEO: What Recruitment Marketers Need to Know in 2026 GEO vs SEO: What Recruitment Marketers Need to Know in 2026 Everyone know's the…",
-      "ratio": 0.72,
+      "ratio": 0.75,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -125,7 +139,7 @@
       "engagement": 74,
       "text": "What if AI Actually Costs More Than Humans? What if AI Actually Costs More Than Humans? The headcount reduction mandate has landed on your desk: replace talent with AI and cut costs. But beneath the vendor demos and boardroom promises lies a dangerous assumption - that artificial intelligence is automatically cheaper than human expertise. What if the token economics tell a different story?",
       "hook": "What if AI Actually Costs More Than Humans?",
-      "ratio": 1.05,
+      "ratio": 1.09,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -139,7 +153,7 @@
       "engagement": 68,
       "text": "The ROK has a reputation of having the best public wifi anywhere and having spent just a week there, I think I am ready to confirm. 5G everywhere, public wifi everywhere, no closed wifi, no log in required, no time limit for usage. I remember being in an abandoned paddy field in Gyeongju looking for a monument only to check my wifi and see it solidly at 5G with massive upload / download speeds. It goes without saying that this was a fantastic feeling, something that when combined with AI and may be AR, is going to have a substantive impact on how the future economy is going to look like. Now I get that having the entire population always online may contribute to excessive digital engagement but it also means that you never lose time during periods of going away from your office. In London - ostensibly a first world city, in one of the most advanced economies in the world, you will get ‘fake 5g’ in central locations, because whilst it says you're connected, you cannot actually access the Internet. The economic damage of having de facto dead zones in your capital city is hard to calculate, but I can imagine it being substantive, especially for a services dependent knowledge economy like the UK. This is evidence of the value of government policy - Korea does not have access to any special technology unavailable to the UK - it has simply treated fast, widely available internet access as a strategic goal and invested accordingly.",
       "hook": "The ROK has a reputation of having the best public wifi anywhere and having spent just a week there, I think I am ready to confirm.",
-      "ratio": 0.96,
+      "ratio": 1.0,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -153,7 +167,7 @@
       "engagement": 73,
       "text": "You need to be clear on why you’re doing the thing. This is crucial not for others, but you. There will be many times on the journey that you will hit the ‘quit point’ - the point when you ask yourself ‘is this really worth it’? This will either be some sort of direct setback or a period where there is no discernible sign of forward progress. For me, this actually came really early on - in Issue No2 of Recruiting Brainfood. I had sent the newsletter to not only a small number of people (<100) but upon doing so the second time, actually lost a dozen or so subscribers and went down 80 or so. It was demoralising stuff and I could have quit right then. But I remembered the  purpose of doing it in the first place, which was simply to curate great pieces of content online which got me thinking in a different way about recruiting topics, and I realised that the purpose would be intact regardless of how many or how few people similarly cared about it.",
       "hook": "You need to be clear on why you’re doing the thing.",
-      "ratio": 1.04,
+      "ratio": 1.07,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -167,7 +181,7 @@
       "engagement": 64,
       "text": "For those of us in recruitment, this is the moment where our professional identity must stretch or break. We have been in the business of matching people to roles for the better part of a half century. But what happens when the roles run out for a significant minority, and the gap between the economically valued and the economically invisible becomes too wide for social stability to bear? I’m not going to pretend there is a neat answer. But in 2026, we can see the contours of the new game: some nations are experimenting with public “human contribution” currencies that reward verified caring, community building, and creative labour that AI cannot or should not simulate. Others are trying aggressive firm-level co-determination laws to force employers to internalise the social cost of AI-driven labour shedding. The EU’s AI Employment Directive, due to be voted on this autumn, will mandate that companies beyond a certain size conduct binding “human-impact assessments” before deploying AI that eliminates whole job families — with recruitment teams required to demonstrate they have exhausted every re-skilling pathway before roles are declared dead.",
       "hook": "For those of us in recruitment, this is the moment where our professional identity must stretch or break.",
-      "ratio": 0.91,
+      "ratio": 0.94,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -181,7 +195,7 @@
       "engagement": 63,
       "text": "Software engineering has been living this reality for eighteen months. Junior developers equipped with Copilot or Cursor are generating pull requests at a rate that senior engineers cannot humanly review. The AI produces the code; the ‘human-in-the-loop’ must review, test, and integrate. But the senior devs are the same finite resource they always were. And the organisational response to this bottleneck is almost always the same: more AI. You add an AI code reviewer to handle the volume. Then you realise that the AI reviewer's output still needs human oversight, but the humans are already over capacity, so you add an AI coordination layer to triage which reviews actually need a person. Then the coordination layer needs to understand business priorities, so you feed it strategy documents and meeting transcripts. Before you've taken a breath, you've built a small constellation of AI agents all talking to each other, and the human has shifted from bottleneck to liability - the slow, error-prone component in an otherwise elegant machine-speed pipeline.",
       "hook": "Software engineering has been living this reality for eighteen months.",
-      "ratio": 0.89,
+      "ratio": 0.93,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -195,7 +209,7 @@
       "engagement": 64,
       "text": "Recruitment agencies would still be sitting pretty despite all of these changes, were it not for another huge change, this time in the financial world. The Great Financial Crisis and the policy responses of most of the Western governments at the time, set the stage for the moment we have today. In many respects, whether you’re a winner or a loser in 2026 was decided in 2008. Quick historical reminder: financial engineering in the US led to the bizarro world where bad debt (sub prime mortgages) was turned into good product by the alchemy of Collateralised Debt Obligations or CDO’s. By aggregating subprime mortgages and then microslicing them into CDO’s, which could then be sold as new financial assets, the risk was diffused across a large range of holders and so, the risk to each individual holder was minimal, if not close to actual zero. Seemed like a no lose proposition so CDO’s sold like hot cakes across the global financial system. Banks from Iceland to pension funds in Canada all piled into US CDO’s. Risk was distributed alright, because when the trust in the idea evaporated, CDO’s flooded back on the market, couldn’t find any sellers and the entire system went into panic mode because no one could accurately say how badly they were exposed. The US financial system came close to collapse but rather than let it go, Obama decided (did he really have a choice?) to bail out the banks to the turn of $20 trillion USD, and the agreement of the US Federal Reserve to hold interest rates at close to zero in order for this cash to be put out into the market, which spurred the asset price inflation which made householders happy with their paper gains of value, whilst increasingly marginalising renters who saw the property ladder being pulled up away from them. Winners vs Losers.",
       "hook": "Recruitment agencies would still be sitting pretty despite all of these changes, were it not for another huge change, this time in the finan…",
-      "ratio": 0.91,
+      "ratio": 0.94,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -209,7 +223,7 @@
       "engagement": 60,
       "text": "Donald Trump is a significant figure for us recruiters to understand. As economist  Richard Baldwin succinctly put it, Trump is emotionally coherent, but economically incoherent. He will do things which feel right to him, even when all the evidence continually points to the opposite outcome intended. He is also predictably mercurial - bringing chaos because he operates best when he is playing by no rules, and when everyone else is still unsure whether the rules still apply. All this creates a global macro environment which is impossibly chaotic - one where strategy gives away to agility, and one which responsible CEOs will increasingly shift fixed cost into the variable cost column. That means payroll folks, one of the largest line items in any company ledger, will be relentlessly reduced as the external chaos continues to unfold. Good news for AI; good news even for technology vendors who offer increased productivity for smaller teams. It’s even good news even for Recruiting Brainfood, as recruitment technology firms increase their battle for the mindshare of a TA community which has to shift more budget from payroll into tooling, and hence supply me with sponsor revenue. But it is very bad news for the people in Talent Acquisition, who will continue to see suppressed headcount growth (no hire, no fire economy), TA teams cut even further than the ratio’s would otherwise dictate.",
       "hook": "Donald Trump is a significant figure for us recruiters to understand.",
-      "ratio": 0.85,
+      "ratio": 0.88,
       "band": "baseline",
       "name": "Hung Lee"
     },
@@ -223,7 +237,7 @@
       "engagement": 76,
       "text": "Creating an organisational system which can absorb the dynamically changing outputs of every AI-enabled Superworker, and convert it into value, is what Dorsey, Rechtman and Asthana are essentially saying to do. This is necessarily a much looser system. The distance between the nodes is greater, the relationships between them much less rigid, in order to create the organisational elasticity required to deal with surges of output as new breakthroughs in method move into production. In management consultancy, we often hear about the ‘organisational pyramid’ turning into an ‘organisational diamond’, where the junior ranks are progressively depleted, in favour of expanding force of experienced individual contributors, but the analogy may be less a matter of structural geometry and more a case of state of matter; in the Dorsey worldview, it's not the shape of organisational structure that is important, but the state of organisational structure. He’s moving from solid state (pyramid or diamond - both are pretty solid!), to a liquid state, where individual workers are in contact with each other but not bound tightly to one another and move freely around within the confines of the whole.",
       "hook": "Creating an organisational system which can absorb the dynamically changing outputs of every AI-enabled Superworker, and convert it into val…",
-      "ratio": 1.08,
+      "ratio": 1.12,
       "band": "baseline",
       "name": "Hung Lee"
     }
